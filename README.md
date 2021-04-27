@@ -1,2 +1,2 @@
-# theplasmak.github.io
-Hello! My Twines are hosted on this GitHub page for free, because I enjoy saving money.
+# twine-github-pages
+Hello! This is a copy of theplasmak.github.io, minus the Twine HTML files.
